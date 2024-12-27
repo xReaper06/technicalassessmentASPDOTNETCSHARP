@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\views\\myorder\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\models\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\models\\productdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\includes\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\includes\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\models\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\models\\jobdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|c:\\users\\asus\\source\\repos\\technicalassessment\\technicalassessment\\includes\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{63B44920-2A27-40AC-BF31-8B1996D1BD85}|technicalassessment\\technicalassessment.csproj|solutionrelative:technicalassessment\\includes\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "technicalassessment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "technicalassessment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:02:46.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "technicalassessment\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "technicalassessment\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T07:05:15.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\Orders.cs",
+              "RelativeToolTip": "technicalassessment\\Models\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:46:55.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\Item.cs",
+              "RelativeToolTip": "technicalassessment\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:46:40.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\includes\\orders.json",
+              "RelativeDocumentMoniker": "technicalassessment\\includes\\orders.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\includes\\orders.json",
+              "RelativeToolTip": "technicalassessment\\includes\\orders.json",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwGMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T06:03:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\ProductData.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Models\\ProductData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\ProductData.cs",
+              "RelativeToolTip": "technicalassessment\\Models\\ProductData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:59:05.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Controllers\\MyOrderController.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Controllers\\MyOrderController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Controllers\\MyOrderController.cs",
+              "RelativeToolTip": "technicalassessment\\Controllers\\MyOrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T05:50:54.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "technicalassessment\\Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "technicalassessment\\Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:47:46.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\MyOrder\\Index.cshtml",
+              "RelativeDocumentMoniker": "technicalassessment\\Views\\MyOrder\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\MyOrder\\Index.cshtml",
+              "RelativeToolTip": "technicalassessment\\Views\\MyOrder\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:50:09.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "technicalassessment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "technicalassessment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T05:49:17.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "technicalassessment\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:10:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JobData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\JobData.cs",
+              "RelativeDocumentMoniker": "technicalassessment\\Models\\JobData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\Models\\JobData.cs",
+              "RelativeToolTip": "technicalassessment\\Models\\JobData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T06:46:15.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\includes\\products.json",
+              "RelativeDocumentMoniker": "technicalassessment\\includes\\products.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\technicalassessment\\technicalassessment\\includes\\products.json",
+              "RelativeToolTip": "technicalassessment\\includes\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-27T05:57:22.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

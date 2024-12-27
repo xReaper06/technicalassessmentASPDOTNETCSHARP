@@ -1,0 +1,33 @@
+﻿@model List<Orders>
+
+@{
+    ViewData["Title"] = "MyOrder";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table border="1" class="table table-reponsive table-striped">
+    <thead>
+        <tr>
+            <th>Row Number</th>
+            <th>Order ID</th>
+            <th>Net Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var order in Model)
+        {
+            <tr>
+                <td>@(Model.IndexOf(order) + 1)</td>
+                <td>@order.Id</td>
+                @if (order.Items != null && order.Items.Any())
+                {
+                @foreach(var item in order.Items)
+                {
+                    <td>@item.NetCost</td>
+                }
+                }
+            </tr>
+        }
+    </tbody>
+</table>
