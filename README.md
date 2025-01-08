@@ -7,4 +7,4 @@
 5. after that if the NewsoftJson throw an error you have to install it in the nugetPackage <br/>
 6. basically the NewsoftJson Package allows C# or dotNet framework to easily deserialize and serialize JSON since Json is not native on C# or dotNet since its from JavaScript so we have to install someone for us to work on conversion from JSON to List since the JSON read as a String in C# <br/>
 <br/>
-after that its good to go.
+after that its good to go just run it again by pressing the f5 button in your keyboard.
